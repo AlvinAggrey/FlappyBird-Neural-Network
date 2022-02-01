@@ -1,0 +1,18 @@
+﻿  AIController.cpp
+  AssetManager.cpp
+  Bird.cpp
+  Collision.cpp
+  Flash.cpp
+  Game.cpp
+  GameOverState.cpp
+  GameState.cpp
+  HUD.cpp
+  InputManager.cpp
+  Land.cpp
+  main.cpp
+  MainMenuState.cpp
+  Pipe.cpp
+  SplashState.cpp
+  StateMachine.cpp
+  Generating Code...
+  FlappyBird.vcxproj -> C:\Users\a012231j\Documents\GitHub\FlappyBird-Neural-Network\Debug\FlappyBird.exe
